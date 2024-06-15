@@ -6,7 +6,13 @@
     ],
     "project": [
         {
-            "heading": "Project1",
+            "heading": "Edutech",
+            "subheading": "A learning website for college students",
+            "imgSrc": "https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg",
+            "plink": "https://alanjoshua05.github.io/EduTech/index.html"
+        },
+        {
+            "heading": "Project2",
             "subheading": "Learn what we do here",
             "imgSrc": "https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg",
             "plink": "https://alanjoshua05.github.io/EduTech/index.html"
