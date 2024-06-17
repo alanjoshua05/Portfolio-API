@@ -7,7 +7,7 @@
     "project": [
         {
             "heading": "Edutech",
-            "subheading": "A learning website for college students",
+            "subheading": "A learning website for students with google books api integrated",
             "imgSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/12c4e2680f6a0796d6a58b7f40ed6058312cabe076a3465b992115b846cf59b2?apiKey=6bcee3e3ed9847128d266201399eebb6&",
             "plink": "https://alanedu.netlify.app/"
         }
