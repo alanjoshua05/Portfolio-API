@@ -6,13 +6,13 @@
     ],
     "project": [
         {
-            "heading": "3D_Website",
+            "heading": "3D Library website",
             "subheading": "A learning website for students with google books api integrated",
             "imgSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/b4b8cf33bd32a8a306e0774599745ab2f7b3a0b7d95f4043a1516fb869c3e918?apiKey=6bcee3e3ed9847128d266201399eebb6&",
             "plink": "https://alanedu.netlify.app/"
         },
         {
-            "heading": "Project#2",
+            "heading": "Lab portfolio",
             "subheading": "A sample dynamic website template for chemistry research laboratory",
             "imgSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/6ad0b3dbfb13be723bb5fd4db709c81d6706321711b51627467a6ac1a9a3a311?apiKey=6bcee3e3ed9847128d266201399eebb6&",
             "plink": "https://jothi-groups-nit.netlify.app"
