@@ -16,6 +16,12 @@
             "subheading": "A sample dynamic website template for chemistry research laboratory",
             "imgSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/6ad0b3dbfb13be723bb5fd4db709c81d6706321711b51627467a6ac1a9a3a311?apiKey=6bcee3e3ed9847128d266201399eebb6&",
             "plink": "https://jothi-groups-nit.netlify.app"
+        },
+        {
+            "heading": "Online Voting",
+            "subheading": "A voting platform for inter-college election with Google authentication and supabase",
+            "imgSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/bcaaa3b75a934b3a053c15467bae2e42c6b885ece3d656009b7be1fd5b8b60a9?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "plink": "https://alanvoting.netlify.app"
         }
     ]
 }
